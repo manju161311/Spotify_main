@@ -49,7 +49,7 @@ This project is a functional and responsive website clone of the popular music s
 Contributions, issues and feature requests are welcome. After cloning & setting up project locally, you can
 just submit a Pull-Request to this repo and it will be deployed once it's accepted.
 
-### ⚠️ If you have any Queries mail me @hellonaveen21@gmail.com
+### ⚠️ If you have any Queries mail me @manjupk161311@gmail.com
 
 ## Show your support
 
