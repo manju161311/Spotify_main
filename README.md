@@ -15,7 +15,7 @@
 ## Description :
 This project is a functional and responsive website clone of the popular music streaming platform Spotify. It utilizes HTML to structure the content, CSS to style the layout and elements, JavaScript to add interactive features, and Bootstrap to ensure responsiveness and mobile-friendliness.
 
-### Preview Link : https://thenaveen-hub.github.io/Spotify/
+### Preview Link : (https://github.com/manju161311/Spotify_main.git)
 ## Tech - Used
 
 |Frontend|Frame Works|Editors|
@@ -26,22 +26,22 @@ This project is a functional and responsive website clone of the popular music s
 
 ## screenshots 
 ###    _Home page_
-![image](https://github.com/Thenaveen-hub/gg-restaurant/assets/140473308/5e2c89d4-7802-45be-9e2d-fe87b24c92c7)
+![image](https://github.com/manju161311/Spotify_main.git)
 
 ###    _Some snaps_
-![Yellow Black Modern Course YouTube Thumbnail](https://github.com/Thenaveen-hub/gg-restaurant/assets/140473308/a8ab6718-97c0-4514-beb0-d853fafe341f)
+![Yellow Black Modern Course YouTube Thumbnail] (https://github.com/manju161311/Spotify_main.git)
 
 ###    _Songs page_
-![Screenshot (171)](https://github.com/Thenaveen-hub/gg-restaurant/assets/140473308/4c6a2da6-aec7-4646-8f1d-7e735b85e34a)
+![Screenshot (171)] https://github.com/manju161311/Spotify_main.git
 
 
 
-##  👉👉  [Click Here To visit Website](https://thenaveen-hub.github.io/Spotify/)
+##  👉👉  [Click Here To visit Website](https://github.com/manju161311/Spotify_main.git)
 
 ## Running locally
 1. Clone Git repo
     ```sh
-    $ https://github.com/Thenaveen-hub/Spotify.git
+    $(https://github.com/manju161311/Spotify_main.git)
     ```
 
 ## 🤝 Contributing
