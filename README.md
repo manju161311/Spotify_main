@@ -57,7 +57,7 @@ We love people's support to grow, improve and give the best. Be sure to drop a �
 and also contribute, if you're interested!
 
 
-<div align="center">Made by Navin J with ❤️ </div>
+<div align="center">Made by Manjunath </div>
 
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=60&section=footer"/>
